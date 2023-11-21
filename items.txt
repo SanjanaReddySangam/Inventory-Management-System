@@ -4,7 +4,7 @@ asus monitor   	8	   7400
 barcode scanner 	8	 1990
 bays 	9	19900
 bluetooth headset	11	700
-bluetooth mobile keyboard 	6	 2000
+bluetooth mobile keyboard 	6	 2000.0
 bus(IDE) 	12	 1000
 card 4-Port usb hub	3	280.0
 cd-rom drive 	2	  530
