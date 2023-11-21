@@ -29,7 +29,8 @@ The Inventory Management System is a comprehensive solution designed to streamli
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/inventory-management.git`
+1. Clone the repository:
+   `git clone https://github.com/your-username/inventory-management.git`
 2. Install the required dependencies.
 3. Configure the MySQL database with the provided schema.
 4. Run the application.
