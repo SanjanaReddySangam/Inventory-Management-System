@@ -52,7 +52,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-Special thanks to @Kedhar7 for his contributions to the project.
+Special thanks to [Kedhar](https://github.com/Kedhar7) for his contributions to the project.
 
 ## Contact
 
